@@ -1,0 +1,17 @@
+{
+    "name": "e-comers/shoping_cart",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "osama"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
